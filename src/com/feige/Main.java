@@ -50,5 +50,3 @@ public class Main {
         new Main().meau();
     }
 }
-
-
